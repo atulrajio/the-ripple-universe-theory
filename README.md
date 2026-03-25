@@ -9,3 +9,6 @@ The Ripple Universe Theory offers a unified explanation for several longstanding
 
 ## Contents
 - Full research paper (PDF)
+
+##
+<img width="1200" height="628" alt="The Ripple Universe Theory - by Atul Raj" src="https://github.com/user-attachments/assets/1da2f129-f318-46dd-ba0b-0f76cdeb0509" />
